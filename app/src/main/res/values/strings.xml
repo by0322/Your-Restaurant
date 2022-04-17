@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">restaurant</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title">Title</string>
+    <string name="edit_text">Edit Text</string>
+    <string name="delete_text">delete_text</string>
+</resources>
